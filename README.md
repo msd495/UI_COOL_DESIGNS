@@ -7,3 +7,4 @@ https://github.com/baljindersidhu
 https://demo.themesberg.com/neumorphism-ui/html/components/accordions.html
 https://csslayout.io/
 https://cssdeck.com/
+https://www.freepik.com/free-photos-vectors/login
