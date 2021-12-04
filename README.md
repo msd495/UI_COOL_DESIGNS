@@ -8,3 +8,10 @@ https://demo.themesberg.com/neumorphism-ui/html/components/accordions.html
 https://csslayout.io/
 https://cssdeck.com/
 https://www.freepik.com/free-photos-vectors/login
+https://undraw.co/illustrations
+https://control.rocks/
+https://drawkit.com/
+https://opendoodles.com/
+https://doodles-site-example.webflow.io/
+https://iradesign.io/gallery/illustrations
+https://www.manypixels.co/gallery
