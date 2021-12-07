@@ -35,3 +35,6 @@ __________________
 Important pages
 ___________________
 https://github.com/kamranahmedse/developer-roadmap
+https://github.com/danistefanovic/build-your-own-x
+https://github.com/donnemartin/system-design-primer
+https://github.com/trekhleb/javascript-algorithms
