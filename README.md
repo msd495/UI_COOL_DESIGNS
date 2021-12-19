@@ -16,6 +16,9 @@ https://doodles-site-example.webflow.io/
 https://iradesign.io/gallery/illustrations
 https://www.manypixels.co/gallery
 
+Gradients:
+____________
+https://www.eggradients.com/category/white-gradient
 
 css
 _____________
