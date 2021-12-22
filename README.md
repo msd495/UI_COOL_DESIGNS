@@ -16,6 +16,10 @@ https://doodles-site-example.webflow.io/
 https://iradesign.io/gallery/illustrations
 https://www.manypixels.co/gallery
 
+leaderboard
+_____________-
+https://dev.to/rhidra/build-a-real-time-leaderboard-with-d3js-and-react--2lmj
+
 Gradients:
 ____________
 https://www.eggradients.com/category/white-gradient
