@@ -35,6 +35,10 @@ __________________
 6) react hook form
 
 
+react performance
+___________________
+https://www.youtube.com/watch?v=3cYtqrNUiVw&ab_channel=JustinKim
+
 Important pages
 ___________________
 https://github.com/kamranahmedse/developer-roadmap
