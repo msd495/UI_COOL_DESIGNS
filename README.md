@@ -20,7 +20,7 @@ leaderboard
 _____________-
 https://dev.to/rhidra/build-a-real-time-leaderboard-with-d3js-and-react--2lmj
 
-Recat awesome tutorial with projects
+Recat awesome tutorial with projects(dashboard)
 ______________________________________
 https://www.youtube.com/c/LamaDev/videos
 
