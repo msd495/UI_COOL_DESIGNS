@@ -24,6 +24,10 @@ Recat awesome tutorial with projects(dashboard)
 ______________________________________
 https://www.youtube.com/c/LamaDev/videos
 
+Web3
+________
+https://www.youtube.com/c/TechmakerTV/playlists
+
 Docker+kubernetes
 ______________________
 https://www.youtube.com/watch?v=XQNNAeyMAkk&ab_channel=DevSense
