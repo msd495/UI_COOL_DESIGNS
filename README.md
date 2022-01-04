@@ -24,6 +24,12 @@ Recat awesome tutorial with projects(dashboard)
 ______________________________________
 https://www.youtube.com/c/LamaDev/videos
 
+redux thunk tutorial
+_____________________
+codeEvolution.dev (mapStateToProps and mapDispatchToProps,connect)
+https://www.youtube.com/watch?v=qA6oyQQTJ3I (normal redux thunk)
+
+
 Web3
 ________
 https://www.youtube.com/c/TechmakerTV/playlists
