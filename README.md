@@ -46,6 +46,14 @@ css
 _____________
 https://flexboxfroggy.com/
 
+loading bar
+_____________
+https://www.youtube.com/watch?v=PNQGbczXkMI
+
+Progress bar with percentage
+____________________________
+lama dev 
+
 
 React extensions
 __________________
