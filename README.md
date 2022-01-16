@@ -20,6 +20,10 @@ leaderboard
 _____________-
 https://dev.to/rhidra/build-a-real-time-leaderboard-with-d3js-and-react--2lmj
 
+Data Science Practice
+________________________
+https://platform.stratascratch.com/coding/10164-total-adwords-earnings?python=1
+
 Recat awesome tutorial with projects(dashboard)
 ______________________________________
 https://www.youtube.com/c/LamaDev/videos
